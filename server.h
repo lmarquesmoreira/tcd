@@ -1,3 +1,8 @@
+/*
+	Create by Lucas Marques
+*/
+
+
 /* header sockets */
 
 #include <stdio.h>
